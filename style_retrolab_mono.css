@@ -1,0 +1,60 @@
+body {
+    background-color: black;
+}
+.michroma-regular {
+  font-family: "Michroma", serif;
+  font-weight: 400;
+  font-style: normal;
+    color: white;
+    font-size: 4rem;
+    position: absolute;
+    top: 450px;
+    left: 800px;
+  }
+  .responsive {
+    width: 100%;
+    max-width: 20rem;
+    height: auto;
+  }
+  #tuileries {
+    height: 17rem;
+    position: absolute;
+    bottom: 50px;
+    left: 1100px
+  }
+  #deuxcv {
+    width: 20rem;
+    position: absolute;
+    top: 15rem;
+    right: 35rem;
+  }
+  #company {
+    height: 400px;
+    position: absolute;
+    bottom: 100px;
+    left: 400px;
+  }
+  #hairdressers {
+    height: 16rem;
+    position: absolute;
+    top: 5rem;
+    left: 100px;
+  }
+  #newell_street {
+    height: 350px;
+    position: absolute;
+    top: 400px;
+    right: 250px;
+  }
+  #farringdon_lane {
+    height: 200px;
+    position: absolute;
+    top: 550px;
+    right: 50px;
+  }
+  #pylons {
+    height: 120px;
+    position: absolute;
+    bottom: 50px;
+    left: 50px;
+  }
